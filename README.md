@@ -1,1 +1,1 @@
-sfsfasd
+This repo reimplement some deep learning algorithms by myself to help understand details of neural networks
